@@ -26,7 +26,32 @@ Hello, I am a web interface developer from Russia - Rostov-on-Don. My goal is to
 - Visual Studio Code
 - figma
 - Photoshop
+```
+function duplicateEncode(word){
+    let finelyResult = [];
+    let resultCount = '';
+    let result = word.toLowerCase().split('').reduce((acc, value) => {
+        acc[value] ? acc[value] +=1 : acc[value] = 1;
+        return acc;
+    },{});
+   word.toLowerCase().split('').forEach((item) => {
+        for(key in result) {
+            
+            if(key == item && result[key] == 1) {
+                resultCount+=result[key];
+            } else if (key == item && result[key] > 1) {
+                resultCount+= "2"
+            }
+        }
+   })
+   resultCount.split('').forEach((item)=> {
+       if(item == 1) {
+        finelyResult.push('(')
+       }else if (item > 1) {
+           finelyResult.push(')')
+       }
+   })
+   return finelyResult.join('');
+}
+```
 ***
-```
-test task code
-```
