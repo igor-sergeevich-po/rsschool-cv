@@ -23,13 +23,13 @@ Hello, I am a web interface developer from Russia - Rostov-on-Don. My goal is to
 ***
 <a id= "skills"></a>
 ### *base skills:*
-- HTML
-- CSS
-- JavaScript
-- git
 - Visual Studio Code
-- figma
-- Photoshop
+    - HTML
+        - CSS
+        - JavaScript
+- git
+    - figma
+        - Photoshop
 ```
 function duplicateEncode(word){
     let finelyResult = [];
