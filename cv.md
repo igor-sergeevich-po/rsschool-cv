@@ -1,5 +1,5 @@
 <a id= "up"></a>
-[contacts](#contacts) | [about](#about) | [skills](#skills) | [education](#education) | [languages](#languages)
+[contacts](#contacts) | [about](#about) | [skills](#skills) | [work experience](#experience) | [education](#education) | [languages](#languages)
 ***
 ## Pochichenko Igor Sergeevich
 ![avatar_pic](/cv-avatar.jpg)
@@ -18,6 +18,7 @@
 <a id= "about"></a>
 ### *about me:*
 Hello, I am a web interface developer from Russia - Rostov-on-Don. My goal is to become a pro in this field. Perhaps today I do not have a rich resume and extensive knowledge, but this is temporary.
+
 [↑ up ↑](#up)
 ***
 <a id= "skills"></a>
@@ -59,8 +60,15 @@ function duplicateEncode(word){
 ```
 [↑ up ↑](#up)
 ***
+<a id= "experience"></a>
+### *work experience:*
+shelter - https://rolling-scopes-school.github.io/igor-sergeevich-po-JSFE2022Q1/shelter/pages/main/
+virtual keyboard - https://igor-sergeevich-po.github.io/RSS-virtual-keyboard/
+Mem slider - https://igor-sergeevich-po.github.io/cssMemSlider/
+
+[↑ up ↑](#up)
 <a id= "education"></a>
-## *courses & education* :
+### *courses & education* :
 * Moscow Technological Institute "VTU", Moscow : automation and management in commercial and administrative spheres - 2015
 - HTML course - sololern : [
 course completion certificate](https://www.sololearn.com/Certificate/1014-9727737/pdf/)
@@ -73,7 +81,7 @@ course completion certificate](https://www.sololearn.com/Certificate/1023-972773
 
 [↑ up ↑](#up)
 <a id= "languages"></a>
-## *languages* :
+### *languages* :
 - russian - main
 - english - A2 (Pre-Intermediate)+
 
