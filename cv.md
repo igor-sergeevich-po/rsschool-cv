@@ -1,9 +1,7 @@
 <a id= "up"></a>
-[contacts](#contacts) | [about](#about) | [skills](#skills) | [work experience](#experience) | [education](#education) | [languages](#languages)<br>
-***
+[contacts](#contacts) | [about](#about) | [skills](#skills) | [work experience](#experience) | [education](#education) | [languages](#languages)
 ## Pochichenko Igor Sergeevich
-![avatar_pic](/cv-avatar.jpg)<br>
-***
+![avatar_pic](/cv-avatar.jpg)
 <a id="contacts"></a>
 ### *contacts info:*
   connection type|connection info|
@@ -13,14 +11,12 @@
 | telegram :| [elScrooge](https://t.me/elScrooge)|
 | skype| https://join.skype.com/invite/AiO2FFbjWr68|
 | gitHub :| [igor-sergeevich-po](https://github.com/igor-sergeevich-po)|
-[↑ up ↑](#up)<br>
-***
+[↑ up ↑](#up)
 <a id= "about"></a>
 ### *about me:*
 Hello, I am a web interface developer from Russia - Rostov-on-Don. My goal is to become a pro in this field. Perhaps today I do not have a rich resume and extensive knowledge, but this is temporary.
 
-[↑ up ↑](#up)<br>
-***
+[↑ up ↑](#up)
 <a id= "skills"></a>
 ### *base skills:*
 - Visual Studio Code
@@ -58,13 +54,12 @@ function duplicateEncode(word){
    return finelyResult.join('');
 }
 ```
-[↑ up ↑](#up)<br>
-***
+[↑ up ↑](#up)
 <a id= "experience"></a>
 ### *work experience:*
-shelter - https://rolling-scopes-school.github.io/igor-sergeevich-po-JSFE2022Q1/shelter/pages/main/
-virtual keyboard - https://igor-sergeevich-po.github.io/RSS-virtual-keyboard/
-Mem slider - https://igor-sergeevich-po.github.io/cssMemSlider/
+[shelter](https://rolling-scopes-school.github.io/igor-sergeevich-po-JSFE2022Q1/shelter/pages/main/)
+[virtual keyboard](https://igor-sergeevich-po.github.io/RSS-virtual-keyboard/)
+[Mem slider](https://igor-sergeevich-po.github.io/cssMemSlider/)
 
 [↑ up ↑](#up)
 <a id= "education"></a>
@@ -85,5 +80,7 @@ course completion certificate](https://www.sololearn.com/Certificate/1023-972773
 - russian - main
 - english - A2 (Pre-Intermediate)+
 
-[↑ up ↑](#up)<br>
+[↑ up ↑](#up)
+
+
 ***
