@@ -1,8 +1,8 @@
 <a id= "up"></a>
-[contacts](#contacts) | [about](#about) | [skills](#skills) | [work experience](#experience) | [education](#education) | [languages](#languages)
+[contacts](#contacts) | [about](#about) | [skills](#skills) | [work experience](#experience) | [education](#education) | [languages](#languages)<br>
 ***
 ## Pochichenko Igor Sergeevich
-![avatar_pic](/cv-avatar.jpg)
+![avatar_pic](/cv-avatar.jpg)<br>
 ***
 <a id="contacts"></a>
 ### *contacts info:*
@@ -13,13 +13,13 @@
 | telegram :| [elScrooge](https://t.me/elScrooge)|
 | skype| https://join.skype.com/invite/AiO2FFbjWr68|
 | gitHub :| [igor-sergeevich-po](https://github.com/igor-sergeevich-po)|
-[↑ up ↑](#up)
+[↑ up ↑](#up)<br>
 ***
 <a id= "about"></a>
 ### *about me:*
 Hello, I am a web interface developer from Russia - Rostov-on-Don. My goal is to become a pro in this field. Perhaps today I do not have a rich resume and extensive knowledge, but this is temporary.
 
-[↑ up ↑](#up)
+[↑ up ↑](#up)<br>
 ***
 <a id= "skills"></a>
 ### *base skills:*
@@ -58,7 +58,7 @@ function duplicateEncode(word){
    return finelyResult.join('');
 }
 ```
-[↑ up ↑](#up)
+[↑ up ↑](#up)<br>
 ***
 <a id= "experience"></a>
 ### *work experience:*
@@ -85,5 +85,5 @@ course completion certificate](https://www.sololearn.com/Certificate/1023-972773
 - russian - main
 - english - A2 (Pre-Intermediate)+
 
-[↑ up ↑](#up)
+[↑ up ↑](#up)<br>
 ***
