@@ -85,6 +85,8 @@ html {
 p {
 flex-wrap: wrap;
     padding: 16px;
+    line-height: 32px;
+    text-align: justify;
 }
 .skills-item {
     padding: 15px;
