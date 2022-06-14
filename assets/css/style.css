@@ -94,3 +94,16 @@ flex-wrap: wrap;
 .skills-item {
     padding: 15px;
 }
+.footer{
+    height: 7rem;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.logo-RSSchool{
+  width: 155px;
+}
